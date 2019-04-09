@@ -1,0 +1,15 @@
+C:\Users\09A\source\repos\Postcode Checker\Postcode Checker\bin\Release\Postcode Checker.exe.config
+C:\Users\09A\source\repos\Postcode Checker\Postcode Checker\bin\Release\Postcode Checker.exe
+C:\Users\09A\source\repos\Postcode Checker\Postcode Checker\bin\Release\Postcode Checker.pdb
+C:\Users\09A\source\repos\Postcode Checker\Postcode Checker\bin\Release\Newtonsoft.Json.xml
+C:\Users\09A\source\repos\Postcode Checker\Postcode Checker\bin\Release\RestSharp.xml
+C:\Users\09A\source\repos\Postcode Checker\Postcode Checker\bin\Release\System.ValueTuple.xml
+C:\Users\09A\source\repos\Postcode Checker\Postcode Checker\obj\Release\Postcode Checker.csprojAssemblyReference.cache
+C:\Users\09A\source\repos\Postcode Checker\Postcode Checker\obj\Release\Postcode_Checker.Form1.resources
+C:\Users\09A\source\repos\Postcode Checker\Postcode Checker\obj\Release\Postcode_Checker.Properties.Resources.resources
+C:\Users\09A\source\repos\Postcode Checker\Postcode Checker\obj\Release\Postcode Checker.csproj.GenerateResource.cache
+C:\Users\09A\source\repos\Postcode Checker\Postcode Checker\obj\Release\Postcode Checker.csproj.CoreCompileInputs.cache
+C:\Users\09A\source\repos\Postcode Checker\Postcode Checker\obj\Release\Postcode Checker.csproj.Fody.CopyLocal.cache
+C:\Users\09A\source\repos\Postcode Checker\Postcode Checker\obj\Release\Postcode Checker.csproj.CopyComplete
+C:\Users\09A\source\repos\Postcode Checker\Postcode Checker\obj\Release\Postcode Checker.exe
+C:\Users\09A\source\repos\Postcode Checker\Postcode Checker\obj\Release\Postcode Checker.pdb
