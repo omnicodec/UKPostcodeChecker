@@ -13,6 +13,8 @@ Releases:
 
 https://github.com/omnicodec/UKPostcodeChecker/releases/latest
 
+SHA-256	584d5322dd4163e2657a95604f510d3ad6f34abf5082507c84eb587d2a18d338
+
 References:
 
 https://github.com/markembling/MarkEmbling.PostcodesIO
