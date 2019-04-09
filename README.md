@@ -11,7 +11,7 @@ Screenshots:
 
 Releases:
 
-https://github.com/omnicodec/UKPostcodeChecker/blob/master/Postcode%20Checker/bin/Release/Postcode%20Checker.exe
+https://github.com/omnicodec/UKPostcodeChecker/releases/latest
 
 References:
 
