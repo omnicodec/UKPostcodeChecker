@@ -16,3 +16,24 @@ C:\Users\09A\source\repos\Postcode Checker\Postcode Checker\obj\Debug\Postcode C
 C:\Users\09A\source\repos\Postcode Checker\Postcode Checker\obj\Debug\Postcode Checker.csproj.CopyComplete
 C:\Users\09A\source\repos\Postcode Checker\Postcode Checker\obj\Debug\Postcode Checker.exe
 C:\Users\09A\source\repos\Postcode Checker\Postcode Checker\obj\Debug\Postcode Checker.pdb
+C:\Users\09A\Source\Repos\UKPostcodeChecker\Postcode Checker\obj\Debug\Postcode Checker.csprojAssemblyReference.cache
+C:\Users\09A\Source\Repos\UKPostcodeChecker\Postcode Checker\bin\Debug\Postcode Checker.exe.config
+C:\Users\09A\Source\Repos\UKPostcodeChecker\Postcode Checker\bin\Debug\Postcode Checker.exe
+C:\Users\09A\Source\Repos\UKPostcodeChecker\Postcode Checker\bin\Debug\Postcode Checker.pdb
+C:\Users\09A\Source\Repos\UKPostcodeChecker\Postcode Checker\bin\Debug\Newtonsoft.Json.xml
+C:\Users\09A\Source\Repos\UKPostcodeChecker\Postcode Checker\bin\Debug\RestSharp.xml
+C:\Users\09A\Source\Repos\UKPostcodeChecker\Postcode Checker\bin\Debug\System.ValueTuple.xml
+C:\Users\09A\Source\Repos\UKPostcodeChecker\Postcode Checker\obj\Debug\Themes\ExpressionDark.baml
+C:\Users\09A\Source\Repos\UKPostcodeChecker\Postcode Checker\obj\Debug\Postcode Checker_Content.g.cs
+C:\Users\09A\Source\Repos\UKPostcodeChecker\Postcode Checker\obj\Debug\Postcode Checker_MarkupCompile.cache
+C:\Users\09A\Source\Repos\UKPostcodeChecker\Postcode Checker\obj\Debug\Postcode Checker.g.resources
+C:\Users\09A\Source\Repos\UKPostcodeChecker\Postcode Checker\obj\Debug\Postcode_Checker.Form1.resources
+C:\Users\09A\Source\Repos\UKPostcodeChecker\Postcode Checker\obj\Debug\Postcode_Checker.Properties.Resources.resources
+C:\Users\09A\Source\Repos\UKPostcodeChecker\Postcode Checker\obj\Debug\Postcode Checker.csproj.GenerateResource.cache
+C:\Users\09A\Source\Repos\UKPostcodeChecker\Postcode Checker\obj\Debug\Postcode Checker.csproj.CoreCompileInputs.cache
+C:\Users\09A\Source\Repos\UKPostcodeChecker\Postcode Checker\obj\Debug\Postcode Checker.csproj.Fody.CopyLocal.cache
+C:\Users\09A\Source\Repos\UKPostcodeChecker\Postcode Checker\obj\Debug\Postcode Checker.csproj.CopyComplete
+C:\Users\09A\Source\Repos\UKPostcodeChecker\Postcode Checker\obj\Debug\Postcode Checker.exe
+C:\Users\09A\Source\Repos\UKPostcodeChecker\Postcode Checker\obj\Debug\Postcode Checker.pdb
+C:\Users\09A\Source\Repos\UKPostcodeChecker\Postcode Checker\obj\Debug\App.baml
+C:\Users\09A\Source\Repos\UKPostcodeChecker\Postcode Checker\obj\Debug\App.g.cs

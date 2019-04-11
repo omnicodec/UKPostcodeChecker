@@ -11,14 +11,9 @@ namespace Postcode_Checker
             InitializeComponent();
         }
 
-        private void TextBox1_TextChanged(object sender, EventArgs e)
+        private void MetroSetButton1_Click(object sender, EventArgs e)
         {
-            
-        }
-
-        private void Button1_Click(object sender, EventArgs e)
-        {
-            textBox2.Clear();
+            textBox2.ResetText();
             var data = textBox1.Text;
             string myData = data.ToString();
 
@@ -27,7 +22,7 @@ namespace Postcode_Checker
 
             try
             {
-                string myResult = result.AdminDistrict + "\r\n" + result.Region + "\r\n" + result.Country + "\r\n" + result.Postcode.ToString();
+                string myResult = result.ParliamentaryConstituency + "\r\n" + result.AdminDistrict + "\r" + result.AdminCounty + "\r\n" + result.Region + "\r\n" + result.Country + "\r\n" + result.Postcode.ToString();
                 textBox2.AppendText(myResult);
             }
             catch (Exception)
@@ -38,7 +33,7 @@ namespace Postcode_Checker
 
         private void TextBox2_TextChanged(object sender, EventArgs e)
         {
-            
+
         }
 
         private void AboutToolStripMenuItem_Click(object sender, EventArgs e)
